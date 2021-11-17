@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Requiere Prenda",
+      "type": "text",
+      "id": "Field_0bozwts"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "label": "Desea poner una Prenda?",
+      "type": "select",
+      "id": "Field_0rfqvtw",
+      "key": "requierePrenda"
+    }
+  ],
+  "type": "default",
+  "id": "Form_5"
+}

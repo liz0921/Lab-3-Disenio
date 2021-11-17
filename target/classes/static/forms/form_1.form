@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registro de Solicitante",
+      "type": "text",
+      "id": "Field_0l6hlqh"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_0k79vrm",
+      "key": "nombre"
+    },
+    {
+      "label": "Apellido",
+      "type": "textfield",
+      "id": "Field_05cp6jn",
+      "key": "apellido"
+    },
+    {
+      "values": [
+        {
+          "label": "Independiente",
+          "value": "independiente"
+        },
+        {
+          "label": "Planilla",
+          "value": "planilla"
+        }
+      ],
+      "label": "Trabajador independiente",
+      "type": "select",
+      "id": "Field_0fnfc08",
+      "key": "tipo"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1"
+}
